@@ -108,5 +108,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "PayPal", icon: "code" },
             { name: "Razorpay", icon: "code" },
             { name: "Braintree", icon: "code" },
-            { name: "Adyen", icon: "code" },
 ]
