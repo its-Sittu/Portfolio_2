@@ -49,5 +49,14 @@ export const skillCategories: SkillCategory[] = [
             { name: "Firebase", icon: "firebase" },
             { name: "Docker", icon: "docker" },
         ]
+    },
+    {
+        title: "Mobile Development",
+        color: "#F59E0B", // Amber accent
+        skills: [
+            { name: "React Native", icon: "react" },
+            { name: "Expo", icon: "expo" },
+            { name: "Flutter", icon: "flutter" },
+        ]
     }
 ]
