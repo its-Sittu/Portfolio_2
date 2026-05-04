@@ -10,7 +10,7 @@ export type Project = {
 export const projects: Project[] = [
     {
         title: "AI-Powered BRD Generator",
-        description: "Built an AI-driven system that converts unstructured requirements into structured documentation. Designed a secure backend validation pipeline and REST APIs.",
+        description: "An advanced AI-driven system that transforms unstructured business requirements into comprehensive, structured documentation. Features a robust backend validation pipeline and high-performance REST APIs.",
         techStack: ["React", "FastAPI", "Python"],
         image: "/projects/brd-generator.png",
         demo: "https://formulatebrd-production.up.railway.app/",
