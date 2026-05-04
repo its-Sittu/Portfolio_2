@@ -96,4 +96,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "LogRocket", icon: "code" },
             { name: "Mixpanel", icon: "code" },
             { name: "Amplitude", icon: "code" },
+            { name: "Google Analytics", icon: "code" },
 ]
