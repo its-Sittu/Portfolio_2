@@ -17,7 +17,7 @@ export const projects: Project[] = [
     },
     {
         title: "PhishGuard",
-        description: "Developed a real-time malicious URL detection backend with secure API handling.",
+        description: "A sophisticated real-time malicious URL detection system. Implements advanced heuristics and machine learning patterns to identify phishing attempts through secure API integration.",
         techStack: ["Python", "Flask"],
         image: "/projects/phishguard.png",
         demo: "https://phishguard-e38r.onrender.com/",
