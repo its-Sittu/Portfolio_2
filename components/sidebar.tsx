@@ -94,6 +94,9 @@ export function Sidebar() {
                                         <a href="https://linkedin.com/in/sittu" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 px-4 py-3 rounded-md text-gray-400 hover:text-white hover:bg-white/5 transition-all group">
                                             <span className="font-medium">LinkedIn</span>
                                         </a>
+                                        <a href="https://github.com/its-Sittu" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 px-4 py-3 rounded-md text-gray-400 hover:text-white hover:bg-white/5 transition-all group">
+                                            <span className="font-medium">GitHub</span>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
