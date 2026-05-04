@@ -145,4 +145,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Eleventy", icon: "code" },
             { name: "Nuxt.js", icon: "code" },
             { name: "SvelteKit", icon: "code" },
+            { name: "Remix", icon: "code" },
 ]
