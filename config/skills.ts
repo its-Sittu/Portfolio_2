@@ -75,5 +75,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "GitHub Actions", icon: "code" },
             { name: "GitLab CI", icon: "code" },
             { name: "Bitbucket Pipelines", icon: "code" },
-            { name: "Netlify", icon: "code" },
 ]
