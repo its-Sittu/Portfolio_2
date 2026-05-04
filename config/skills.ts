@@ -68,4 +68,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "WebSockets", icon: "code" },
             { name: "WebRTC", icon: "code" },
             { name: "Terraform", icon: "code" },
+            { name: "Ansible", icon: "code" },
 ]
