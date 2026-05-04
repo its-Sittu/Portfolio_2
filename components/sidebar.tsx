@@ -88,8 +88,14 @@ export function Sidebar() {
                                         )
                                     })}
                                 </div>
-
-
+                                <div className="pt-6 mt-6 border-t border-white/10">
+                                    <h3 className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4 px-4">Socials</h3>
+                                    <div className="space-y-1">
+                                        <a href="https://linkedin.com/in/sittu" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 px-4 py-3 rounded-md text-gray-400 hover:text-white hover:bg-white/5 transition-all group">
+                                            <span className="font-medium">LinkedIn</span>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </motion.div>
                     </>
