@@ -59,5 +59,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "Flutter", icon: "flutter" },
         ]
     }
-            { name: "Kubernetes", icon: "code" },
 ]
