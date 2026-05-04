@@ -93,5 +93,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "New Relic", icon: "code" },
             { name: "Datadog", icon: "code" },
             { name: "Sentry", icon: "code" },
-            { name: "LogRocket", icon: "code" },
 ]
