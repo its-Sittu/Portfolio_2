@@ -1,4 +1,4 @@
-export interface Skill {
+﻿export interface Skill {
     name: string;
     icon: string;
 }
@@ -59,4 +59,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Flutter", icon: "flutter" },
         ]
     }
+            { name: "Kubernetes", icon: "code" },
 ]
