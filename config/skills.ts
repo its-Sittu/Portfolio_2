@@ -106,5 +106,4 @@ export const skillCategories: SkillCategory[] = [
             { name: "Cognito", icon: "code" },
             { name: "Stripe", icon: "code" },
             { name: "PayPal", icon: "code" },
-            { name: "Razorpay", icon: "code" },
 ]
