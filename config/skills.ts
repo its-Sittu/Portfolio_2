@@ -98,4 +98,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Amplitude", icon: "code" },
             { name: "Google Analytics", icon: "code" },
             { name: "Segment", icon: "code" },
+            { name: "Optimizely", icon: "code" },
 ]
