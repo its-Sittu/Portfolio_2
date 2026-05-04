@@ -101,4 +101,5 @@ export const skillCategories: SkillCategory[] = [
             { name: "Optimizely", icon: "code" },
             { name: "LaunchDarkly", icon: "code" },
             { name: "Auth0", icon: "code" },
+            { name: "Okta", icon: "code" },
 ]
