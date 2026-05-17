@@ -1,2 +1,2 @@
 Project helps to clear the concept of JavaScript
-~  By 
+~  By S
